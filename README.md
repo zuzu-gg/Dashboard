@@ -31,6 +31,3 @@ Cargar la carpeta `wikitracker` como extensión descomprimida desde `chrome://ex
 npm run deploy
 ```
 
-Sitio: https://antivsan796.github.io/Dashboard/
-
-Guías: https://dawm3.readthedocs.io/es/latest/recursos/guias_proyecto03.html
